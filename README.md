@@ -13,3 +13,14 @@ tối ưu hóa thông lượng của ứng dụng và có khả năng mở rộn
 
 - Mọi hàm trong Node.js là không đồng bộ (asynchronous). Do đó, các tác vụ
 đều được xử lý và thực thi ở chế độ nền (background processing)
+
+# Express framework
+- Framework giúp cho việc phát triển ứng dụng được rút ngắn đi rất nhiều. Cũng như các framework dựa trên những ngôn ngữ khác như Rails (Ruby); Django (Python); Laravel, CakePHP (PHP)... Express được xây dựng dựa trên Node.js.
+
+- Express hỗ trợ việc phát triển ứng dụng theo mô hình MVC, mô hình phổ biến cho việc lập trình web hiện nay.
+
+- Cho phép định nghĩa Middleware hỗ trợ cho việc tổ chức và tái sử dụng code.
+
+- Định nghĩa routes và các request method đến server một cách dễ dàng.
+
+- Hỗ trợ REST API.
